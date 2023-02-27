@@ -21,3 +21,6 @@ Projects I made while learning how to use C. Projects dealt with building C prog
 Developed an application that manages system test plans for a program. Developed functionality for adding, modifying, and removing test cases with custom data structures.
 #### Project Backlog Manager (CSC 216: Software Development Fundamentals)
 Created a Java program that tracks the product development using the Scrum workflow. Inside, a finite state machine models Scrum and controls task states. 
+
+### In the works:
+In the works I have projects from my Software Engineering class (CSC 326) and my Computer Security class (CSC 405)
