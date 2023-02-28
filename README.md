@@ -4,7 +4,7 @@ Read me to learn about my code samples!
 Hello!  
 This is the guide to the code and projects I have done as an NC State Student! To prevent unauthorized reuse of my code and other's code, the repositories of my work are private. I have listed my repositories, the classes they pertain to, and their descriptions below. If you would like to see any repositories, please email me at jlabrams@ncsu.edu and I'll share it with you!
 
-## Available repositories
+# Available repositories
 #### Data Structures Design Project (CSC 316: Data Structures and Algorithms)
 Project I made for my Data Structures Class where we had to design a system for a vacuum that tracked the rooms being cleaned. We had to design custom algorithms, determine the best data structures for them, and test our system with large data sets. Project was completed with the help of Tom Nixon (jtnixon2@ncsu.edu). 
 #### Network Security Tools (CSC 747: Network Security)
@@ -22,5 +22,5 @@ Developed an application that manages system test plans for a program. Developed
 #### Project Backlog Manager (CSC 216: Software Development Fundamentals)
 Created a Java program that tracks the product development using the Scrum workflow. Inside, a finite state machine models Scrum and controls task states. 
 
-### In the works:
+## In the works:
 In the works I have projects from my Software Engineering class (CSC 326) and my Computer Security class (CSC 405).
