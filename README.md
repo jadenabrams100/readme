@@ -21,6 +21,8 @@ Projects I made while learning how to use C. Projects dealt with building C prog
 Developed an application that manages system test plans for a program. Developed functionality for adding, modifying, and removing test cases with custom data structures. Project was completed with the help of Henry Kon (hakon@ncsu.edu).
 #### Project Backlog Manager (CSC 216: Software Development Fundamentals)
 Created a Java program that tracks the product development using the Scrum workflow. Inside, a finite state machine models Scrum and controls task states. 
+#### Coffeemaker (CSC 326: Software Engineering)
+Project I made in collaboration with Maciej Pruchnic (mpruchn@ncsu.edu) and Jonathan Kolesar (jkolesa@ncsu.edu) where we developed a "coffee maker" that interacted with a MySQL database from a web portal. Webpages were written in AngularJS with the backend written in Java. The frontend connects to the backend through a REST API, and the backend communicates with the database using Hibernate.
 
 ## In the works:
 In the works I have projects from my Software Engineering class (CSC 326) and my Computer Security class (CSC 405).
