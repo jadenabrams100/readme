@@ -9,8 +9,11 @@ This is the guide to the code and projects I have done as an NC State Student! T
 ### Coffeemaker II (CSC 326: Software Engineering)
 This is a continuation on work from Coffeemaker in collaboration with Maciej Pruchnik (mpruchn@ncsu.edu), Shiva Ganapathy (sganapa3@ncsu.edu), Sammy Shea (sgshea@ncsu.edu), and Yunhao Si (ysi3@ncsu.edu). With the team, we implemented new roles for staff and customers, added order tracking, added access controls and authentication, and developed a new UI. I worked on the database elements of the additions, creating the model for how these users would be stored and the how the orders would go through the system.
 
-## Binary Pwnage (CSC 405: Computer Security)
+### Binary Pwnage (CSC 405: Computer Security)
 This is a series of writeups I did for different binary exploitation in CSC 405. In them, I describe how I exploited different programs to gain access to a shell with the program's privileges. The repository also contains the different codes I wrote to exploit the programs. my exploits were written with x86-64 assembly, C, Python, and Perl, with code compiled for Linux with GCC. The reverse engineerings were done with Ghidra.
+
+### Web Security (CSC 405: Computer Security)
+A series of writeups I did for exploiting security flaws in websites to capture flags from them. The exploits involving coding were written in PHP, and I used Burp Suite for monitoring and intercepting web traffic.
 
 ### Coffeemaker (CSC 326: Software Engineering)
 Project I made in collaboration with Maciej Pruchnik (mpruchn@ncsu.edu) and Jonathan Kolesar (jkolesa@ncsu.edu) where we developed a "coffee maker" that interacted with a MySQL database from a web portal. Webpages were written in AngularJS with the backend written in Java. The frontend connects to the backend through a REST API, and the backend communicates with the database using Hibernate.
