@@ -46,8 +46,8 @@ Created a Java program that tracks the product development using the Scrum workf
 
 ## Personal Projects
 This is where I place my personal projects! 
-# Sitcom Doorbell
+### Sitcom Doorbell
 A Work In Progress device that mounts to a door and plays a random sitcom bumper music clip when the door is opened. It is a work in progress, with the code written in Python for a Raspberry Pi. A future iteration is in development, using an ESP32 running Arduino code to speed up booting and reduce power needs.
 
 ## In the works:
-In the works I have projects from my Web Development class (CSC 342)
+In the works I have projects from my Web Development class (CSC 342) and the Sitcom Doorbell whenever I get a chance.
