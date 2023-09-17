@@ -6,6 +6,8 @@ This is the guide to the code and projects I have done as an NC State Student! T
 
 # Available repositories
 
+## School Projects
+
 ### Coffeemaker II (CSC 326: Software Engineering)
 This is a continuation on work from Coffeemaker in collaboration with Maciej Pruchnik (mpruchn@ncsu.edu), Shiva Ganapathy (sganapa3@ncsu.edu), Sammy Shea (sgshea@ncsu.edu), and Yunhao Si (ysi3@ncsu.edu). With the team, we implemented new roles for staff and customers, added order tracking, added access controls and authentication, and developed a new UI. I worked on the database elements of the additions, creating the model for how these users would be stored and the how the orders would go through the system.
 
@@ -40,7 +42,12 @@ Projects I made while learning how to use C. Projects dealt with building C prog
 Developed an application that manages system test plans for a program. Developed functionality for adding, modifying, and removing test cases with custom data structures. Project was completed with the help of Henry Kon (hakon@ncsu.edu).
 
 ### Project Backlog Manager (CSC 216: Software Development Fundamentals)
-Created a Java program that tracks the product development using the Scrum workflow. Inside, a finite state machine models Scrum and controls task states. 
+Created a Java program that tracks the product development using the Scrum workflow. Inside, a finite state machine models Scrum and controls task states.
+
+## Personal Projects
+This is where I place my personal projects! 
+# Sitcom Doorbell
+A Work In Progress device that mounts to a door and plays a random sitcom bumper music clip when the door is opened. It is a work in progress, with the code written in Python for a Raspberry Pi. A future iteration is in development, using an ESP32 running Arduino code to speed up booting and reduce power needs.
 
 ## In the works:
 In the works I have projects from my Web Development class (CSC 342)
