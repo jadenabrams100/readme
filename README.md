@@ -2,7 +2,7 @@
 Read me to learn about my code samples!
 # Introduction
 Hello!  
-This is the guide to the code and projects I have done as an NC State Student! To prevent unauthorized reuse of my code and other's code, the repositories of my work are private. I have listed my repositories, the classes they pertain to, and their descriptions below. If you would like to see any repositories, please email me at jlabrams@ncsu.edu and I'll share it with you!
+This is the guide to the code and projects I have done as an NC State Student! To prevent unauthorized reuse of my code and other's code, the repositories of my work are private. I have listed my repositories, the classes they pertain to, and their descriptions below. If you would like to see any repositories, please email me at jadenabrams100@gmail.com and I'll share it with you!
 
 # Available repositories
 
