@@ -56,4 +56,4 @@ This is where I place my personal projects!
 A Work In Progress device that mounts to a door and plays a random sitcom bumper music clip when the door is opened. It is a work in progress, with the code written in Python for a Raspberry Pi. A future iteration is in development, using an ESP32 running Arduino code to speed up booting and reduce power needs.
 
 ## In the works:
-In the works I have projects from my Web Development class (CSC 342) and the Sitcom Doorbell whenever I get a chance.
+In the works I have my Senior Design project, my Cybersecurity Capstone project, and the Sitcom Doorbell whenever I get a chance.
