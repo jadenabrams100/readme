@@ -8,6 +8,9 @@ This is the guide to the code and projects I have done as an NC State Student! T
 
 ## School Projects
 
+### Howler (CSC 326: Web Development)
+This is a social media application I wrote to learn about mobile-first web design and user authentication. Users are able to "howl" with their friends and see what their friends have howled. The frontend is written in JavaScript with Bootstrap for styling, connecting to the backend using a REST API. The backend is written in NodeJS, with backend routing done using ExpressJS. A custom JSON Web Token is used to authenticate users and keep track of their requests.
+
 ### Coffeemaker II (CSC 326: Software Engineering)
 This is a continuation on work from Coffeemaker in collaboration with Maciej Pruchnik (mpruchn@ncsu.edu), Shiva Ganapathy (sganapa3@ncsu.edu), Sammy Shea (sgshea@ncsu.edu), and Yunhao Si (ysi3@ncsu.edu). With the team, we implemented new roles for staff and customers, added order tracking, added access controls and authentication, and developed a new UI. I worked on the database elements of the additions, creating the model for how these users would be stored and the how the orders would go through the system.
 
@@ -25,6 +28,9 @@ Python tools I made for my Network Security class. These tools are 2 different t
 
 ### Assembly Projects (CSC 236: Computer Organization and Assembly)
 A collection of assembly projects dealing with getting used to the language, file I/O, floating point operations, linking with C programs, string operations, and bitwise operations.
+
+### Text To Music Converter(MUS 306: Musical Composition with Computers)
+A program used to convert text files into music using SCAMP.
 
 ### Operating Systems Projects (CSC 246: Operating Systems)
 A collection of C and Java projects dealing with low level operating system capabilities. These projects deal with system calls, process creation and management, thread synchronization, inter-process communication, resource allocation and deadlock, GPU processing, networking,k and encryption.
